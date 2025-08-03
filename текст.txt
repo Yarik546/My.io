@@ -1,0 +1,15 @@
+Shama, [3 серп. 2025, 23:56]
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Оплата</title>
+</head>
+<body style="text-align:center; padding-top:50px;">
+  <h2>Сканируй QR для оплати</h2>
+  <img src="qrcode.png" width="300">
+  <p>Або натисни:<br>
+    <a href="bitcoin:https://www.privat24.ua/send/h8hwg?amount=0.01&label=Оплата">Оплатити</a>
+  </p>
+</body>
+</html>
